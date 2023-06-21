@@ -1,0 +1,3 @@
+months,hours,metadata_style,reject_outliers,interval_amnt,duration,heating_runtime_upper_bound,heating_runtime_lower_bound,setpoint_derivative_threshold,T_out_stationarity,T_in_derivative_threshold,T_in_out_diff,proportion_heating,max_duration,min_duration,initial_guess,only_auxHeat1,no_smart_recovery,indoor_variance_threshold,initial_guess_model_fitting,no_heat_pump
+11,20,detached,True,30,3,0.8,0.05,-2.0,1.0,0.0,5.0,0.1,6,10.0,100.0,True,False,0.2,0.01,True
+2,5,detached,True,30,3,0.8,0.05,-2.0,1.0,0.0,5.0,0.1,6,10.0,10.0,True,False,0.2,100.0,True

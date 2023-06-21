@@ -1,0 +1,18 @@
+# The file to use as input for the data
+
+input_file: "test_file.xlsx"
+#input_file: "tutorial/storage.xlsx"
+# The file to output the results in
+#output_file: "test.xlsx"
+output_file: "test.xlsx"
+
+# The solver to be used
+solver:
+    # the name of the solver
+    name: "glpk"
+
+    # The options to be passed to the solver
+    options:
+        mipgap: 0.05
+
+BIG_M: 99999

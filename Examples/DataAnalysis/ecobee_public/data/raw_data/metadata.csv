@@ -1,0 +1,9 @@
+Identifier,Model,UserID,Country,ProvinceState,City,Floor Area [ft2],Style,Number of Floors,Age of Home [years],Number of Occupants,installedCoolStages,installedHeatStages,allowCompWithAux,Has Electric,Has a Heat Pump,Auxilliary Heat Fuel Type,Number of Remote Sensors,filename
+001014855d9a10060d20420b8a6c6a015322c790,SmartSi,a1b1d8e6d2e57b5fd7029be704fc88cfc18cb886,CA,ON,Toronto,5000,,3,16,0,1,1,false,false,false,Gas,0,001014855d9a10060d20420b8a6c6a015322c790.csv
+bc40eb277e587c697e77d061d0701e2639ed11fa,ecobee3,66c54674e410903d64410e239742249ecb128ff6,US,MN,Plymouth,4500,detached,3,0,0,1,1,false,false,false,Gas,3,bc40eb277e587c697e77d061d0701e2639ed11fa.csv
+0394b7ad85da211021eac434ac103b8289370ef4,ecobee3Lite,b8428e3995433579e78379470d796bb889c059a1,CA,ON,Toronto,2000,detached,3,8,0,1,1,false,false,false,Gas,0,0394b7ad85da211021eac434ac103b8289370ef4.csv
+2cba182847c937ff08ee4e71b8c9cbda3eeb7457,ecobee3,636a079fd30256f3f22f033681b3eab194ec5bee,CA,ON,Toronto,1000,condominium,1,10,3,1,0,false,false,true,Electric,1,2cba182847c937ff08ee4e71b8c9cbda3eeb7457.csv
+5b8304c344b177f00e11d2a673e7327013ec9f8b,ecobee3,063da25f367171ecf2426ec27d0700feeb009b17,CA,ON,Toronto,1200,condominium,1,0,0,1,0,false,false,true,Electric,1,5b8304c344b177f00e11d2a673e7327013ec9f8b.csv
+98b5e4cb5c40677ddef21483901ed73dde26a31f,ecobee3,c040f6d9fa3e95d71aa5d6542a633cfe46ee31f6,CA,ON,Toronto,5500,condominium,1,60,0,1,1,false,false,false,Gas,0,98b5e4cb5c40677ddef21483901ed73dde26a31f.csv
+a937d992bbae47858967713080c8e8173b331e9c,ecobee3,918f156e690509075e309b2d48fb723510715c93,CA,ON,Toronto,1800,detached,2,90,4,0,1,false,false,false,Gas,3,a937d992bbae47858967713080c8e8173b331e9c.csv
+bc7c689d694435fbb5208a3f0e1e96af6cf03050,ecobee3,f2fbf6c6475a0255237bbe88b3dfe6e891139972,CA,ON,Toronto,4000,semiDetached,4,5,0,1,1,false,false,false,Gas,1,bc7c689d694435fbb5208a3f0e1e96af6cf03050.csv
